@@ -14,7 +14,11 @@ namespace Cats
             Weight = weight;
         }
 
-        // On this line, add a no-argument constructor
+        //no-arg constructor
+        public Cat()
+        {
+            Weight = 13.0;
+        }
 
         public void Sleep()
         {
