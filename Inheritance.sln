@@ -10,6 +10,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Technology", "..\csharp-web
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechnologyTests", "..\csharp-web-dev-inheritance-2\TechnologyTests\TechnologyTests.csproj", "{438D734E-9FFA-4D1B-BC39-50CD835AED89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz", "Quiz\Quiz.csproj", "{F48D13B7-B5D2-4294-BBA1-700D760AE3C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizTest", "QuizTest\QuizTest.csproj", "{34B7452E-2CA0-437C-99F1-5ED5BEF0FBCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +36,14 @@ Global
 		{438D734E-9FFA-4D1B-BC39-50CD835AED89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{438D734E-9FFA-4D1B-BC39-50CD835AED89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{438D734E-9FFA-4D1B-BC39-50CD835AED89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F48D13B7-B5D2-4294-BBA1-700D760AE3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48D13B7-B5D2-4294-BBA1-700D760AE3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48D13B7-B5D2-4294-BBA1-700D760AE3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48D13B7-B5D2-4294-BBA1-700D760AE3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34B7452E-2CA0-437C-99F1-5ED5BEF0FBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B7452E-2CA0-437C-99F1-5ED5BEF0FBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B7452E-2CA0-437C-99F1-5ED5BEF0FBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B7452E-2CA0-437C-99F1-5ED5BEF0FBCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
